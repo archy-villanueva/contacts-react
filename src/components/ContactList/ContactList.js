@@ -62,4 +62,8 @@ class ContactList extends Component {
   }
 }
 
+ContactList.defaultProps = {}
+
+ContactList.propTypes = {}
+
 export default ContactList

@@ -176,4 +176,8 @@ class EditFormModal extends Component {
   }
 }
 
+EditFormModal.defaultProps = {}
+
+EditFormModal.propTypes = {}
+
 export default EditFormModal

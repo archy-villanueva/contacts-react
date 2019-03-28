@@ -167,4 +167,8 @@ class AddFormModal extends Component {
   }
 }
 
+AddFormModal.defaultProps = {}
+
+AddFormModal.propTypes = {}
+
 export default AddFormModal
